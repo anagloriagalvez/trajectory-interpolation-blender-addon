@@ -6,8 +6,4 @@ Several interpolation methods are implemented: Lineal, Catmull-Rom and Hermite, 
 The Add-On was created for Blender 2.8.0, but still works with more recent Blender versions, like 3.0.0.
 
 
-Authors:
-Ana Gloria Galvez Mellado
-Darío Rodríguez Hernández
-Guillem Barcelò Orts
-Bekzat Mukhamedali
+Authors: Ana Gloria Galvez Mellado, Darío Rodríguez Hernández, Guillem Barcelò Orts, Bekzat Mukhamedali
